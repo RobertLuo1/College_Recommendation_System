@@ -1,0 +1,30 @@
+{
+  "id": "2660709",
+  "name": "elementui",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-zy",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "591955",
+      "name": "wxb定位",
+      "font_class": "wxbdingwei",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "749800",
+      "name": "iconfont-youhuiquan",
+      "font_class": "iconfontyouhuiquan",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "900276",
+      "name": "排名",
+      "font_class": "paiming",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    }
+  ]
+}
