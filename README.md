@@ -14,7 +14,13 @@ For back-end ,we choose python Django and for front-end, we use Vue and both we 
 
 - Second you do not need to pay attention to the other directories except for the client and python14 because they are some auxiliary information for the whole project and what you need to focus is how to build up the front-end and back-end.
 - For recommendation algorithm, we just use fitting technique for finally presenting the recommendation and the prediction we use SVR which is a machine learning algorithm for predicting the rank in this year according to the previous ranks. 
-- All above are the basic information you need to know first and hope you enjoy the process of developing the system you design in the summer course for the student who are in Southeast University Artificial Intelligence constitution. 
+- All above are the basic information you need to know first and hope you enjoy the process of developing the system you design in the summer course for the student who are in Southeast University Artificial Intelligence constitution.
 
+#### The Demo
 
+![image-20220313194309619](https://gitee.com/luo-zhuoyan-58119327/myimage/raw/master/img/image-20220313194309619.png)
+
+![image-20220313194424992](https://gitee.com/luo-zhuoyan-58119327/myimage/raw/master/img/image-20220313194424992.png)
+
+![image-20220313194510924](https://gitee.com/luo-zhuoyan-58119327/myimage/raw/master/img/image-20220313194510924.png)
 
